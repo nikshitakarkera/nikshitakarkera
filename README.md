@@ -1,18 +1,6 @@
 
 ![Header](https://github.com/nk-874/nk-874/blob/main/header.png)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikshitakarkera/" target="_blank">
-    <img src="https://github.com/nk-874/nk-874/blob/main/linkedin.png"/>
-  </a>
-  <a href="https://twitter.com/KarkeraNikshita" target="_blank">
-    <img src="https://github.com/nk-874/nk-874/blob/main/twitter.png"/>
-  </a>
-  <a href="[https://github.com/nk-874/nk-874/blob/main/NIKSHITA%20KARKERA%20(2).pdf]" target="_blank" download="Resume.pdf">
-      <img src="https://github.com/nk-874/nk-874/blob/main/resume.png"/>
-  </a>
-</p>
-
 # Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
 
  <img src="https://github.com/nk-874/nk-874/blob/main/pic.png" align="right" height="300">
@@ -28,8 +16,17 @@
 📫You can reach me at nikshithakarkera@gmail.com
 
 ⚡ Fun fact  - I like Designing, Astronomy and Biology
+ 
+  
+<head1>CONNECT ME AT</head1>
+  
+  Linked in : https://www.linkedin.com/in/nikshitakarkera/
 
-<br>
+  Twitter : https://twitter.com/KarkeraNikshita
+  
+  Resume : https://github.com/nk-874/nk-874/blob/main/NIKSHITA%20KARKERA%20(2).pdf
+
+  <br>
 
 <!--# Projects ⚙️
 <!-- <h1 align="center">Projects</h1> -->
