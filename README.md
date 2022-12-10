@@ -1,5 +1,5 @@
 
-![Header](https://github.com/nk-874/nk-874/blob/main/header%20(2).png)
+![Header](https://github.com/nk-874/nk-874/blob/main/header.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikshitakarkera/" target="_blank">
