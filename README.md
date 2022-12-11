@@ -18,7 +18,7 @@
 ⚡ Fun fact  - I like Designing, Astronomy and Biology
  
   
-<head1>CONNECT ME AT</head1>
+<head1>CONNECT WITH ME AT</head1>
   
   Linked in : https://www.linkedin.com/in/nikshitakarkera/
 
