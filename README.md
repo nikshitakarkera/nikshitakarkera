@@ -24,6 +24,6 @@
 
   Twitter : https://twitter.com/KarkeraNikshita
   
-  Resume : https://github.com/nk-874/nk-874/blob/main/NIKSHITA%20KARKERA%20(2).pdf
+  Resume : 
 
   <br>
