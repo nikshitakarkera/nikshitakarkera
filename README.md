@@ -7,7 +7,7 @@
  
  <p align="left">I am Nikshita Karkera, currently studying Computer Science.
 
-🌱 I’m currently learning Django and Machine Learning
+🌱 I’m currently learning Data Science and Design
 
 📝 I actively post on LinkedIn
 
